@@ -1,5 +1,5 @@
 ## Happy - NLW #3
-A project taught by Diego Fernandes from Rocketset.
+A project taught by Diego Fernandes from Rocketseat.
 
 ## Available Scripts
 
